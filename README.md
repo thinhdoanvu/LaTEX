@@ -20,9 +20,9 @@ $sudo apt install texstudio
 ## Need to remove file name: .bbl before compile LaTEX if not it will be uncessfull.
 
 ### Struct bbl file like this, (it is generated automatically - don't write anything in this
-\begin{thebibliography}{1}
+###### \begin{thebibliography}{1}
 
-\bibitem{ER2008}
+###### \bibitem{ER2008}
 E.~R. Mardis, ``Next-generation dna sequencing methods,'' {\em Annual Review of
   Genomics and Human Genetics}, vol.~9, no.~1, pp.~387--402, 2008.
 \newblock PMID: 18576944.
