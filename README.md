@@ -1,10 +1,10 @@
 # LaTeX Installation on Ubuntu
 Ubuntu repository consist of 5 packages from which each targets different type of a LaTeX user. You can choice common installation packages for LaTeX and their approximate capacity disk requirements based on your installation selected goal:
-## texlive-base - 136 MB
-## texlive-latex-recommended - 177 MB
-## texlive - 240 MB
-## texlive-latex-extra - 404 MB
-## texlive-full - 4714 MB
+#### texlive-base - 136 MB
+#### texlive-latex-recommended - 177 MB
+#### texlive - 240 MB
+#### texlive-latex-extra - 404 MB
+#### texlive-full - 4714 MB
 
 texlive-base: will install just the basics to get you started with LaTeX. 
 texlive or texlive-latex-extra: is most likely the best way to get started for most users.
