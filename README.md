@@ -57,3 +57,21 @@ A.~R. Quinlan and I.~M. Hall, ``{BEDTools: A flexible suite of utilities for
   pp.~841--842, 2010.
 
 \end{thebibliography}
+
+
+#Gõ Tiếng việt có dấu trong Latex in Ubuntu
+Download:
+http://vntex.sourceforge.net/download/vntex/vntex-3.1.9.zip
+Unzip file:
+unzip vntex-3.1.9.zip
+==> result: tex folder
+copy all folders in after unzip folder to Textlive
+
+Find path for language package
+find . -name "*.sty"
+
+$sudo cp -r ~/Downloads/tex/latex/vntex/ /usr/share/texmf/tex/latex
+
+# SUCCESS
+
+
